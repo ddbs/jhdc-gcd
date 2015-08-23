@@ -1,6 +1,6 @@
 #jhds-gcd
 
-Course project repo for the Johns Hopkins' Getting and Cleaning Data course, part of the Data Science Specialization at Coursera.
+Course project repo for the Johns Hopkins' Getting and Cleaning Data course [getdata-031], part of the Data Science Specialization at Coursera.
 
 The purpose of this project was to demonstrate the ability to collect, work with, and clean a data set. The goal was to prepare tidy data to be used for later analysis.
 
@@ -22,7 +22,7 @@ See `codebook.md` for details.
 
 ### Script
 
-The `run_analysis.R` script downloads and extracts the data, performs the analysis required in the project and outputs a file named `uci_har_means_tidy.txt`.
+The script downloads and extracts the data, performs the analysis required in the project and outputs a file named `uci_har_means_tidy.txt`.
 
 To run the script, copy the file `run_analysis.R` to a directory of your choosing, configure the working directory in the script and then run
 
@@ -34,4 +34,4 @@ To run the script, copy the file `run_analysis.R` to a directory of your choosin
 * R, with packages *dplyr* and *reshape2* installed.
 * RStudio (optional)
 
-The script was tested on Linux Mint 17.1 x64, running R version 3.2.2.
+Tested **only** on Linux Mint 17.1 x64, running R version 3.2.2.
