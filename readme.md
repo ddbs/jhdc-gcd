@@ -1,6 +1,6 @@
 #jhds-gcd
 
-Course project repo for the Johns Hopkins' Getting and Cleaning Data course [getdata-031], part of the Data Science Specialization at Coursera.
+Course project repo for the Johns Hopkins' Getting and Cleaning Data course, part of the Data Science Specialization at Coursera.
 
 The purpose of this project was to demonstrate the ability to collect, work with, and clean a data set. The goal was to prepare tidy data to be used for later analysis.
 
@@ -15,7 +15,7 @@ The project contains 3 files:
 
 ### Source data
 
-The data came from the [Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The data was sourced from the [Human Activity Recognition Using Smartphones Dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
 See `codebook.md` for details.
 
